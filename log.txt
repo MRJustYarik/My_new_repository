@@ -1,0 +1,47 @@
+commit 3aebdc646a1c444b817f4efe9c292efac2ad54bb
+Author: vasghausen <51541747+vasghausen@users.noreply.github.com>
+Date:   Fri Dec 26 22:39:35 2025 +0300
+
+    Update README.md
+
+commit b0485da9e88d6807eb5d156268cf914f27fd81de
+Author: vasghausen <51541747+vasghausen@users.noreply.github.com>
+Date:   Fri Dec 26 22:38:21 2025 +0300
+
+    Update test.txt
+
+commit dfd3e4a2dd08caece1acaffe3298a762def546b8
+Author: MRJustYarik <okonechnikov.jarosla@gmail.com>
+Date:   Fri Dec 26 22:15:13 2025 +0300
+
+    add text
+
+commit 88e2becc24ae0d1775e5a640c52b133a5e013f5b
+Author: MRJustYarik <okonechnikov.jarosla@gmail.com>
+Date:   Fri Dec 26 22:11:31 2025 +0300
+
+    new read
+
+commit 50b7259293e4ac518987bd4fde27abe46ef70a5a
+Author: MRJustYarik <okonechnikov.jarosla@gmail.com>
+Date:   Fri Dec 26 22:10:39 2025 +0300
+
+    new read
+
+commit 34a876e26e62b006730388490989f7bc0b350024
+Author: MRJustYarik <okonechnikov.jarosla@gmail.com>
+Date:   Fri Dec 26 22:05:09 2025 +0300
+
+    new read
+
+commit 64c004e94006ff88b55a9cb06a6cbaf1be902634
+Author: MRJustYarik <okonechnikov.jarosla@gmail.com>
+Date:   Fri Dec 26 22:02:02 2025 +0300
+
+    Add presentation
+
+commit 077aeb83f34f6b2a31c85bcbbb837e6b7ca25e77
+Author: MRJustYarik <okonechnikov.jarosla@gmail.com>
+Date:   Fri Dec 26 21:56:12 2025 +0300
+
+    first commit
